@@ -45,7 +45,7 @@ Timing attack effectiveness reduced with constant-time exponentiation!
 ## Visualization
 The script generates a histogram comparing decryption times:
 
-![Timing Attack Histogram](example_plot.png)
+![image](https://github.com/user-attachments/assets/e809537a-fb76-41cc-83c6-21a1b4e1c323)
 
 ## References
 - Paul C. Kocher, "Timing Attacks on Implementations of Diffie-Hellman, RSA, DSS, and Other Systems"
